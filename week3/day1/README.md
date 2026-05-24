@@ -62,11 +62,11 @@ LIMIT
 df.limit(5).show()
 
 ```
-#How to Run
-##Open Databricks
-##Create a notebook
-##Paste the code
-##Run the cells
-#Author
+# How to Run
+## Open Databricks
+## Create a notebook
+## Paste the code
+## Run the cells
+# Author
 
 ##Arjun
